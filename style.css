@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background-image: url("image.png");
+}
+h1{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border: 2px solid black;
+    /* background-color: yellow; */
+}
+button{
+    justify-content: center;
+    align-items: center;
+    padding:  2px 15px;
+    font-weight: 800;
+    margin: 10px;
+}
