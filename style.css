@@ -1,6 +1,6 @@
 body{
-    width: auto;
-    height: auto;
+    width: 0;
+    height: 0;
     background-image: url("image.png");
     background-repeat: no-repeat;
     background-position: center;
