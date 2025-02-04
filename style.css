@@ -2,8 +2,9 @@ body{
     width: 100%;
     height: 100%;
     background-image: url("image.png");
-    display: flex;
-    justify-contant: center;
+    background-position: center;
+    background-size: cover;
+    background-attachment:center;
 }
 h1{
     height: 500px;
